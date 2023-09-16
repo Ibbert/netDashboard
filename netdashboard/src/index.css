@@ -1,0 +1,15 @@
+.bg-main {
+    /* background-color: #535353; */
+    background-color: #f8f8f8;
+}
+.bg-second {
+    /* background-color: #313131; */
+    background-color: #ffffff;
+}
+.nav-link:hover {
+    /* background-color: #5e5e5e; */
+    background-color: #f1f1f1;
+}
+.bg-tri {
+    background-color: #00B96F;
+}
